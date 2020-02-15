@@ -12,5 +12,8 @@ Various useful linux tools
 - **[fzf](https://github.com/junegunn/fzf)** - Fuzzy finder
 - **[ripgrep](https://github.com/BurntSushi/ripgrep)** - Fast alternative to grep
 
+## Files
+- **[unp](https://github.com/mitsuhiko/unp)** - Easily unpack anything
+
 ## Disk
 - **[ncdu](https://dev.yorhel.nl/ncdu)** - ncurses disk analysis
