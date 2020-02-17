@@ -17,3 +17,6 @@ Various useful linux tools
 
 ## Disk
 - **[ncdu](https://dev.yorhel.nl/ncdu)** - ncurses disk analysis
+
+## Personalization
+- **[pywal](https://github.com/dylanaraps/pywal)** - Color scheme generation from wallpaper and more
