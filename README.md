@@ -14,6 +14,7 @@ Various useful linux tools
 
 ## Files
 - **[unp](https://github.com/mitsuhiko/unp)** - Easily unpack anything
+- **[git tree](https://stackoverflow.com/a/13686642)** - Show a tree of the timeline from git
 
 ## Disk
 - **[ncdu](https://dev.yorhel.nl/ncdu)** - ncurses disk analysis
