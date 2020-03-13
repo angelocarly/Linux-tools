@@ -3,6 +3,7 @@ Various useful linux tools
 
 ## Shell
 - **[Link sh to dash](https://wiki.archlinux.org/index.php/Dash#Relinking_/bin/sh)** - Increase script speed by using dash instead of sh
+- **[tdrop](https://github.com/noctuid/tdrop)** - Easily create a dropdown terminal/window
 
 ## Navigation
 - **[autojump](https://github.com/wting/autojump)** - Learning folder navigation
