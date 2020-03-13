@@ -17,6 +17,9 @@ Various useful linux tools
 - **[git tree](https://stackoverflow.com/a/13686642)** - Show a tree of the timeline from git
 - **[dragon](https://github.com/mwh/dragon)** - Easy drag and drop for tiling window managers 
 
+## Hardware
+- **[Piper](https://github.com/libratbag/piper/)** - Gaming mouse configuration
+
 ## Disk
 - **[ncdu](https://dev.yorhel.nl/ncdu)** - ncurses disk analysis
 
