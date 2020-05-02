@@ -16,6 +16,7 @@ Various useful linux tools
 ## Files
 - **[unp](https://github.com/mitsuhiko/unp)** - Easily unpack anything
 - **[git tree](https://stackoverflow.com/a/13686642)** - Show a tree of the timeline from git
+- **[delta](https://github.com/dandavison/delta)** - Better coloring for git
 - **[dragon](https://github.com/mwh/dragon)** - Easy drag and drop for tiling window managers 
 
 ## Hardware
