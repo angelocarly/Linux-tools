@@ -30,3 +30,6 @@ Various useful linux tools
 
 ## Personalization
 - **[pywal](https://github.com/dylanaraps/pywal)** - Color scheme generation from wallpaper and more
+
+## Development
+- **[mangohud](https://github.com/flightlessmango/MangoHud)** - OpenGL/Vulkan HUD overlay
