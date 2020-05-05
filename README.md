@@ -13,6 +13,9 @@ Various useful linux tools
 - **[fzf](https://github.com/junegunn/fzf)** - Fuzzy finder
 - **[ripgrep](https://github.com/BurntSushi/ripgrep)** - Fast alternative to grep
 
+## Utilities
+- **[neomutt](https://github.com/neomutt/neomutt)** - Terminal email client
+
 ## Files
 - **[unp](https://github.com/mitsuhiko/unp)** - Easily unpack anything
 - **[git tree](https://stackoverflow.com/a/13686642)** - Show a tree of the timeline from git
@@ -21,8 +24,6 @@ Various useful linux tools
 
 ## Hardware
 - **[Piper](https://github.com/libratbag/piper/)** - Gaming mouse configuration
-
-## Disk
 - **[ncdu](https://dev.yorhel.nl/ncdu)** - ncurses disk analysis
 
 ## Audio
