@@ -22,6 +22,7 @@ Various useful linux tools
 - **[git tree](https://stackoverflow.com/a/13686642)** - Show a tree of the timeline from git
 - **[delta](https://github.com/dandavison/delta)** - Better coloring for git
 - **[dragon](https://github.com/mwh/dragon)** - Easy drag and drop for tiling window managers 
+- **[pv](https://github.com/icetee/pv)** - Simple progress bar for pipes
 
 ## Hardware
 - **[Piper](https://github.com/libratbag/piper/)** - Gaming mouse configuration
