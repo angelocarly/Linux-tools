@@ -16,7 +16,7 @@ Various useful linux tools
 ## Utilities
 - **[neomutt](https://github.com/neomutt/neomutt)** - Terminal email client
 - **[asciinema](https://github.com/asciinema/asciinema)** - Easily record your terminal
-- **[https://github.com/garabik/grc](grc)** - Colorizer for logs and varia
+- **[grc](https://github.com/garabik/grc)** - Colorizer for logs and varia
 
 ## Files
 - **[unp](https://github.com/mitsuhiko/unp)** - Easily unpack anything
