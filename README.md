@@ -1,5 +1,5 @@
 # Linux-tools
-Various useful linux tools
+Various useful linux tools I stumble upon. Feel free to open issues to spread more interesting ones!
 
 ## Shell
 - **[Link sh to dash](https://wiki.archlinux.org/index.php/Dash#Relinking_/bin/sh)** - Increase script speed by using dash instead of sh
