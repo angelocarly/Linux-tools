@@ -12,6 +12,7 @@ Various useful linux tools
 ## Searching
 - **[fzf](https://github.com/junegunn/fzf)** - Fuzzy finder
 - **[ripgrep](https://github.com/BurntSushi/ripgrep)** - Fast alternative to grep
+- **[fd](https://github.com/sharkdp/fd)** - User friendly alternative to find
 
 ## Utilities
 - **[neomutt](https://github.com/neomutt/neomutt)** - Terminal email client
